@@ -22,8 +22,8 @@
 <br>
 <br>
 <h5>Anasayfa</h5>
-![](Img/ysa_anasayfa.JPG)
+<img src="Img/ysa_anasayfa.JPG"/>
 <br>
 <h5>Sonuç Ekranı</h5>
-![](Img/ysa_sonuc.JPG)
+<img src="Img/ysa_sonuc.JPG"/>
 
